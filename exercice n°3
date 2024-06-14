@@ -1,4 +1,4 @@
-1. premire question cut -d: -f1 /etc/passwd
+1. cut -d: -f1 /etc/passwd
 2. chmod 754 myfile
 3. echo "*.pdf" >> .gitignore
 4. on commence avec git pull origin test_valide, on s'assure ensuite d'etre bien dans la branche main avec git checkout main pour fusionner on fait git merge test_valide et enfin on fait pu push donc git push origin main
