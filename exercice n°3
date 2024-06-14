@@ -1,0 +1,10 @@
+cut -d: -f1 /etc/passwd
+chmod 754 myfile
+echo "*.pdf" >> .gitignore
+on commence avec git pull origin test_valide, on s'assure ensuite d'etre bien dans la branche main avec git checkout main pour fusionner on fait git merge test_valide et enfin on fait pu push donc git push origin main
+on fait d'abord un echo "Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :\n- "Bonjour est-ce que ce clavier fonctionne bien ?"\n- "Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\ !"\n- "Même des tildes ~ ?"\n- "Evidemment !""
+fg %1
+Les réponses sont les couches 2 (liaison données) et couche 3 (réseau)
+les équivalents en PowerShell sont pour cd : Set-Location, cp : Copy-Item, mkdir : New-Item -ItemType Directory, ls : Get-ChildItem
+Le payload est une partie des données qui sont transportées par la trame
+Les classes IP ont été remplacées car initialement c'était une méthode de partionnement des adresse IP
